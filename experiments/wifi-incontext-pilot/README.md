@@ -3,7 +3,7 @@
 Tests whether a model that reads unlabeled CSI from the deployment site (its "context")
 can adapt in one forward pass, without gradient updates, and beat test-time adaptation.
 
-**Status: negative on the testbeds available here.** The context models do not use the domain:
+**Status: negative on all three testbeds available here (UT-HAR/NTU-Fi, Widar3.0 BVP, CSIDA).** The context models do not use the domain:
 feeding context from the *wrong* domain gives the same accuracy.
 
 ## Setups
@@ -30,6 +30,18 @@ Two domains that differ in everything give no signal to adapt from.
 
 Rows tagged `widar` in `icl_widar_results.jsonl` for arm/xattn come from a buggy evaluation
 (query chunks taken in gesture-sorted order, so context held the other gestures); ignore them.
+
+**CSIDA raw CSI amplitude (chance 16.7), 25 (room, location, user) domains:**
+
+| Protocol | ERM | BN-Adapt | TENT | ARM | Cross-attention | Cross-attention, wrong-domain context |
+|---|---|---|---|---|---|---|
+| Room A -> B | 16.7 ± 0.1 | 17.8 ± 0.1 | 18.6 ± 1.6 | 15.3 ± 0.7 | 15.6 ± 1.0 | 15.6 ± 0.8 |
+| Room B -> A | 16.7 ± 0.0 | 14.5 ± 0.3 | 15.5 ± 1.0 | 16.5 ± 0.2 | 16.6 ± 0.2 | 16.5 ± 0.3 |
+| Users 0-2 -> 3-4 | 21.1 ± 1.3 | 19.4 ± 0.7 | 19.5 ± 0.6 | 17.5 ± 1.2 | 18.7 ± 1.5 | 19.1 ± 1.3 |
+
+Sanity check: random in-domain 80/20 split, ERM = 76.4 (1 seed), so the pipeline learns;
+cross-room and cross-user transfer is at chance for every method.
+Data: `CSIDA-1.zip` from Mendeley Data (gyr6c4nbsc), decoded by `prep_csida.py`.
 
 ## Caveats
 
