@@ -4,8 +4,10 @@ A small CPU-only pilot of the idea *"Randomize the Radio, Not the Room"*: train 
 human-activity models only on simulated CSI (CMU motion capture rendered through cheap
 propagation physics plus a randomized radio front-end), then test on real datasets.
 
-**Status: inconclusive / weak.** Sim-only models are near chance on 7 activities; one weak
-positive signal on 3 shared activities (see results). This is a pilot, not evidence for a paper.
+**Status: negative for the core hypothesis (at pilot scale).** Sim-only models are near chance
+on 7 activities. On 3 shared activities, the physical front-end beats clean simulation by ~10
+points, but plain AWGN and unstructured noise give the same or larger gain, so the lift is generic
+noise regularization, not physical front-end structure. This is a pilot, not evidence for a paper.
 
 ## What is here
 
@@ -55,9 +57,12 @@ Real cross-dataset / cross-chipset transfer is at chance.
 | Front-end condition | 7 activities | 3 activities |
 |---|---|---|
 | clean | 19.0 ± 1.0 | 37.5 ± 1.7 |
-| AWGN only | 17.9 ± 0.4 | (pending) |
-| unstructured noise, matched energy | 19.5 ± 1.1 | (pending) |
-| **physical front-end** | 17.7 ± 1.0 | **47.8 ± 2.0** |
+| AWGN only | 17.9 ± 0.4 | 47.4 ± 2.4 |
+| unstructured noise, matched energy | 19.5 ± 1.1 | 50.1 ± 1.1 |
+| physical front-end | 17.7 ± 1.0 | 47.8 ± 2.0 |
+
+Chance: 14.3 (7 activities), 33.3 (3 activities). The physical front-end is indistinguishable
+from generic noise in both settings.
 
 **Diagnostics**: the simulator's own classes are only ~30% separable (sim→sim, 7 classes,
 amplitude CSI); ~40–47% with a Doppler (antenna conjugate-product STFT) representation.
