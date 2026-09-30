@@ -1,0 +1,2435 @@
+01	01	120	playground - forward jumps, turn around
+01	02	120	playground - climb
+01	03	120	playground - climb, hang, swing
+01	04	120	playground - climb
+01	05	120	playground - climb, go under
+01	06	120	playground - climb, sit, dangle legs, descend
+01	07	120	playground - climb, sit, dangle legs, jump down
+01	08	120	playground - climb, sit, dangle legs, rock back, lower self to ground
+01	09	120	playground - climb, hang, hold self up with arms straight, swing, drop, sit, dangle legs, go under
+01	10	120	playground - climb, swing, lean back, drop
+01	11	120	playground - climb, hang, lean over, jump down
+01	12	120	playground - climb, pull up, dangle, sit, lower self to ground
+01	13	120	playground - climb, go under, jump down
+01	14	120	playground - climb, jump down, dangle, legs push off against
+02	01	120	walk
+02	02	120	walk
+02	03	120	run/jog
+02	04	120	jump, balance
+02	05	120	punch/strike
+02	06	120	bend over, scoop up, rise, lift arm
+02	07	120	swordplay
+02	08	120	swordplay
+02	09	120	swordplay
+02	10	120	wash self
+03	01	120	walk on uneven terrain
+03	02	120	walk on uneven terrain
+03	03	120	walk on uneven terrain
+03	04	120	walk on uneven terrain
+05	01	120	walk
+05	02	120	dance - expressive arms, pirouette
+05	03	120	dance - sideways arabesque, turn step, folding arms
+05	04	120	dance - sideways arabesque, folding arms, bending back
+05	05	120	dance - quasi-cou-de-pied, raised leg above hip-height, jete en tourant
+05	06	120	dance - cartwheel-like start, pirouettes, jete
+05	07	120	dance - small jetes, attitude/arabesque, shifted-axis pirouette, turn
+05	08	120	dance - rond de jambe in the air, jete, turn
+05	09	120	dance - glissade devant, glissade derriere, attitude/arabesque
+05	10	120	dance - glissade devant, glissade derriere, attitude/arabesque
+05	11	120	dance - sideways steps, pirouette
+05	12	120	dance - arms held high, pointe tendue a terre, upper body rotation
+05	13	120	dance - small jetes, pirouette
+05	14	120	dance - retire derriere, attitude/arabesque
+05	15	120	dance - retire derriere, attitude/arabesque
+05	16	120	dance - coupe dessous, jete en tourant
+05	17	120	dance - coupe dessous, grand jete en tourant
+05	18	120	dance - attitude/arabesque, jete en tourant, bending back
+05	19	120	dance - attitude/arabesque, jete en tourant, bending back
+05	20	120	dance - attitude/arabesque, jete en tourant, bending back
+06	01	120	walk
+06	02	120	basketball - forward dribble
+06	03	120	basketball - forward dribble
+06	04	120	basketball - forward dribble
+06	05	120	basketball - forward dribble
+06	06	120	basketball - backward dribble
+06	07	120	basketball - backward dribble
+06	08	120	basketball - sideways dribble
+06	09	120	basketball - sideways dribble
+06	10	120	basketball - forward dribble, 90-degree left turns
+06	11	120	basketball - forward dribble, 90-degree right turns
+06	12	120	basketball - forward dribble, 90-degree right turns, crossover dribble
+06	13	120	basketball - low, fast free style dribble, dribble through legs
+06	14	120	basketball - crossover dribble, shoot
+06	15	120	basketball - dribble, shoot
+07	01	120	walk
+07	02	120	walk
+07	03	120	walk
+07	04	120	slow walk
+07	05	120	slow walk
+07	06	120	walk
+07	07	120	walk
+07	08	120	walk
+07	09	120	walk
+07	10	120	walk
+07	11	120	walk
+07	12	120	brisk walk
+08	01	120	walk
+08	02	120	walk
+08	03	120	walk
+08	04	120	slow walk
+08	05	120	walk/stride
+08	06	120	walk
+08	07	120	walk, exaggerated stride
+08	08	120	walk
+08	09	120	walk
+08	10	120	walk
+08	11	120	slow walk/stride
+09	01	120	run
+09	02	120	run
+09	03	120	run
+09	04	120	run
+09	05	120	run
+09	06	120	run
+09	07	120	run
+09	08	120	run
+09	09	120	run
+09	10	120	run
+09	11	120	run
+09	12	120	navigate - walk forward, backward, sideways
+10	01	120	soccer - kick ball
+10	02	120	soccer - kick ball
+10	03	120	soccer - kick ball
+10	04	120	walk
+10	05	120	soccer - kick ball
+10	06	120	soccer - kick ball
+11	01	120	soccer - kick ball
+12	01	120	walk
+12	02	120	walk
+12	03	120	walk
+12	04	120	tai chi
+13	01	120	sit on high stool, stand up
+13	02	120	sit on high stool, stand up
+13	03	120	sit on high stool, stand up
+13	04	120	sit on stepstool, chin in hand
+13	05	120	sit on stepstool, hands against chin, fidget, stand up
+13	06	120	sit on stepstool, hands against chin, elbow out, stand up
+13	07	120	unscrew bottlecap, drink soda
+13	08	120	unscrew bottlecap, drink soda, screw on bottlecap
+13	09	120	drink soda
+13	10	120	jump up to grab, reach for, tiptoe
+13	11	120	forward jump
+13	12	120	jump up to grab, reach for, tiptoe
+13	13	120	forward jump
+13	14	120	laugh
+13	15	120	laugh
+13	16	120	laugh
+13	17	120	boxing
+13	18	120	boxing
+13	19	120	forward jump
+13	20	120	wash windows
+13	21	120	wash windows
+13	22	120	wash windows
+13	23	120	sweep floor
+13	24	120	sweep floor
+13	25	120	sweep floor
+13	26	120	direct traffic, wave
+13	27	120	direct traffic, wave, point
+13	28	120	direct traffic, wave, point
+13	29	120	jumping jacks, side twists, bend over, squats
+13	30	120	jumping jacks, side twists, squats, jog
+13	31	120	jumping jacks, side twists, bend over, jog
+13	32	120	forward jump
+13	33	120	climb ladder
+13	34	120	climb ladder
+13	35	120	climb 3 steps
+13	36	120	climb 3 steps
+13	37	120	climb 3 steps
+13	38	120	climb 3 steps
+13	39	120	jump
+13	40	120	jump
+13	41	120	jump
+13	42	120	jump
+14	01	120	boxing
+14	02	120	boxing
+14	03	120	boxing
+14	04	120	drink soda, screw on bottlecap
+14	05	120	unscrew bottlecap, drink soda
+14	06	120	jumping jacks, jog, squats, side twists, stretches
+14	07	120	jump up to grab, reach for, tiptoe
+14	08	120	jump up to grab, reach for, tiptoe
+14	09	120	jump up to grab, reach for, tiptoe
+14	10	120	wash windows
+14	11	120	wash windows
+14	12	120	wash windows
+14	13	120	mop floor
+14	14	120	jumping jacks, jog, squats, side twists, stretches
+14	15	120	mop floor
+14	16	120	sweep floor
+14	17	120	laugh
+14	18	120	laugh
+14	19	120	laugh
+14	20	120	jumping jacks, side twists, reach up, bend over
+14	21	120	climb 3 steps
+14	22	120	climb 3 steps
+14	23	120	climb 3 steps
+14	24	120	direct traffic, wave, point
+14	25	120	direct traffic, wave, point
+14	26	120	direct traffic, wave, point
+14	27	120	sit on high stool, stand up
+14	28	120	sit on high stool, stand up
+14	29	120	sit on stepstool, stand up, swing legs
+14	30	120	sit on stepstool, ankle on other knee, hand on chin
+14	31	120	sit on stepstool, stand up
+14	32	120	sit on stepstool, stand up
+14	33	120	climb ladder
+14	34	120	climb ladder
+14	35	120	climb ladder
+14	36	120	sit on stepstool, stand up
+14	37	120	drink soda
+15	01	120	walk/wander
+15	02	120	climb, step over, sit on, stand on stepstool
+15	03	120	walk/wander
+15	04	120	wash windows, paint; hand signals; dance - Egyptian walk, the Dive, the Twist, the Cabbage Patch; boxing
+15	05	120	wash windows, paint; hand signals; dance - Egyptian walk, the Dive, the Twist, the Cabbage Patch; boxing
+15	06	120	lean forward, reach for
+15	07	120	lean forward, tiptoe, reach for
+15	08	120	hand signals - horizontally revolve forearms
+15	09	120	walk/wander
+15	10	120	sit on high stool, stand up
+15	11	120	wash windows, paint figure eights; hand signals
+15	12	120	wash windows; basketball - dribble, lay-up shot, pass; throw ball; dance - Egyptian walk, the Dive, the Twist; strew
+15	13	120	boxing
+15	14	120	walk/wander
+16	01	120	jump
+16	02	120	jump
+16	03	120	high jump
+16	04	120	high jump
+16	05	120	forward jump
+16	06	120	forward jump
+16	07	120	forward jump
+16	08	120	run/jog, sudden stop
+16	09	120	forward jump
+16	10	120	forward jump
+16	11	120	walk, veer left
+16	12	120	walk, veer left
+16	13	120	walk, veer right
+16	14	120	walk, veer right
+16	15	120	walk
+16	16	120	walk
+16	17	120	walk, 90-degree left turn
+16	18	120	walk, 90-degree left turn
+16	19	120	walk, 90-degree right turn
+16	20	120	walk, 90-degree right turn
+16	21	120	walk
+16	22	120	walk
+16	23	120	walk, veer left
+16	24	120	walk, veer left
+16	25	120	walk, veer right
+16	26	120	walk, veer right
+16	27	120	walk, 90-degree left turn
+16	28	120	walk, 90-degree left turn
+16	29	120	walk, 90-degree right turn
+16	30	120	walk, 90-degree right turn
+16	31	120	walk
+16	32	120	walk
+16	33	120	slow walk, stop
+16	34	120	slow walk, stop
+16	35	120	run/jog
+16	36	120	run/jog
+16	37	120	run/jog, veer left
+16	38	120	run/jog, veer left
+16	39	120	run/jog, veer right
+16	40	120	run/jog, veer right
+16	41	120	run/jog, 90-degree left turn
+16	42	120	run/jog, 90-degree left turn
+16	43	120	run/jog, 90-degree right turn
+16	44	120	run/jog, 90-degree right turn
+16	45	120	run/jog
+16	46	120	run/jog
+16	47	120	walk
+16	48	120	run, veer left
+16	49	120	run, veer right
+16	50	120	run, veer right
+16	51	120	run, 90-degree left turn
+16	52	120	run, 90-degree left turn
+16	53	120	run, 90-degree right turn
+16	54	120	run, 90-degree right turn
+16	55	120	run
+16	56	120	run/jog
+16	57	120	run/jog, sudden stop
+16	58	120	walk
+17	01	120	walk with anger, frustration
+17	02	120	walk with anger, frustration
+17	03	120	walk stealthily
+17	04	120	walk stealthily
+17	05	120	walk/hobble
+17	06	120	whistle, walk jauntily
+17	07	120	whistle, walk jauntily
+17	08	120	muscular, heavyset person's walk
+17	09	120	muscular, heavyset person's walk
+17	10	120	boxing
+18	01	120	walk, shake hands (2 subjects - subject A)
+18	02	120	walk, shake hands (2 subjects - subject A)
+18	03	120	A pulls B; B resists (2 subjects - subject A)
+18	04	120	A pulls B; B resists (2 subjects - subject A)
+18	05	120	A pulls B by the elbow; B resists (2 subjects - subject A)
+18	06	120	A pulls B by the elbow; B resists (2 subjects - subject A)
+18	07	120	navigate busy sidewalk; A leads the way, takes B by the arm (2 subjects - subject A)
+18	08	120	conversation - explain with hand gestures (2 subjects - subject A)
+18	09	120	conversation - explain with hand gestures, walk (2 subjects - subject A)
+18	10	120	quarrel - angry hand gestures (2 subjects - subject A)
+18	11	120	quarrel - angry hand gestures (2 subjects - subject A)
+18	12	120	friends meet, hang out; A sits, B joins A (2 subjects - subject A)
+18	13	120	run, scramble for last seat (2 subjects - subject A)
+18	14	120	run, scramble for last seat (2 subjects - subject A)
+18	15	120	chicken dance (2 subjects - subject A)
+19	01	120	walk, shake hands (2 subjects - subject B)
+19	02	120	walk, shake hands (2 subjects - subject B)
+19	03	120	A pulls B; B resists (2 subjects - subject B)
+19	04	120	A pulls B; B resists (2 subjects - subject B)
+19	05	120	A pulls B by the elbow; B resists (2 subjects - subject B)
+19	06	120	A pulls B by the elbow; B resists (2 subjects - subject B)
+19	07	120	navigate busy sidewalk; A leads the way, takes B by the arm (2 subjects - subject B)
+19	08	120	conversation - explain with hand gestures (2 subjects - subject B)
+19	09	120	conversation - explain with hand gestures, walk (2 subjects - subject B)
+19	10	120	quarrel - angry hand gestures (2 subjects - subject B)
+19	11	120	quarrel - angry hand gestures (2 subjects - subject B)
+19	12	120	friends meet, hang out; A sits, B joins A (2 subjects - subject B)
+19	13	120	run, scramble for last seat (2 subjects - subject B)
+19	14	120	run, scramble for last seat (2 subjects - subject B)
+19	15	120	chicken dance (2 subjects - subject B)
+20	01	120	chicken dance (2 subjects - subject A)
+20	02	120	link arms, walk (2 subjects - subject A)
+20	03	120	link arms, walk (2 subjects - subject A)
+20	04	120	synchronized walk (2 subjects - subject A)
+20	05	120	synchronized walk (2 subjects - subject A)
+20	06	120	soldiers march (2 subjects - subject A)
+20	07	120	soldiers march (2 subjects - subject A)
+20	08	120	zombie march (2 subjects - subject A)
+20	09	120	nursery rhyme - ring around the rosey (2 subjects - subject A)
+20	10	120	360-degree two-person whip (2 subjects - subject A)
+20	11	120	high-five, walk (2 subjects - subject A)
+20	12	120	low-five, walk (2 subjects - subject A)
+20	13	120	blind man's bluff (blindfold tag) (2 subjects - subject A)
+21	01	120	chicken dance (2 subjects - subject B)
+21	02	120	link arms, walk (2 subjects - subject B)
+21	03	120	link arms, walk (2 subjects - subject B)
+21	04	120	synchronized walk (2 subjects - subject B)
+21	05	120	synchronized walk (2 subjects - subject B)
+21	06	120	soldiers march (2 subjects - subject B)
+21	07	120	soldiers march (2 subjects - subject B)
+21	08	120	zombie march (2 subjects - subject B)
+21	09	120	nursery rhyme - ring around the rosey (2 subjects - subject B)
+21	10	120	360-degree two-person whip (2 subjects - subject B)
+21	11	120	high-five, walk (2 subjects - subject B)
+21	12	120	low-five, walk (2 subjects - subject B)
+21	13	120	blind man's bluff (blindfold tag) (2 subjects - subject B)
+22	01	120	B sits; A pulls up B (2 subjects - subject A)
+22	02	120	A sits; B pulls up A (2 subjects - subject A)
+22	03	120	A sits, holds face in hands; B kneels, comforts A (2 subjects - subject A)
+22	04	120	B comforts A, puts one hand on A's shoulder (2 subjects - subject A)
+22	05	120	A comforts B, puts both hands on B's shoulders (2 subjects - subject A)
+22	06	120	B comforts A, puts both hands on A's shoulders (2 subjects - subject A)
+22	07	120	A comforts B, puts one hand on B's shoulder (2 subjects - subject A)
+22	08	120	hold hands, swing arms, walk (2 subjects - subject A)
+22	09	120	A gives B a shoulder rub; B sits, A stands (2 subjects - subject A)
+22	10	120	A shelters B, a younger child, from harm (2 subjects - subject A)
+22	11	120	B shelters A, a younger child, from harm (2 subjects - subject A)
+22	12	120	A stumbles into B (2 subjects - subject A)
+22	13	120	A passes soda to B; both drink (2 subjects - subject A)
+22	14	120	alternating squats (2 subjects - subject A)
+22	15	120	alternating jumping jacks (2 subjects - subject A)
+22	16	120	synchronized jumping jacks (2 subjects - subject A)
+22	17	120	rush up, arm wrestle (2 subjects - subject A)
+22	18	120	A stares down B, leans with hands on high stool (2 subjects - subject A)
+22	19	120	B stares down A, leans with hands on high stool (2 subjects - subject A)
+22	20	120	violence - A picks up high stool, threatens to strike B (2 subjects - subject A)
+22	21	120	conversation - B pounds high stool, points at A (2 subjects - subject A)
+22	22	120	walk; B catches keys thrown by A (2 subjects - subject A)
+22	23	120	walk; A catches keys thrown by B (2 subjects - subject A)
+22	24	120	walk; B catches wallet thrown by A (2 subjects - subject A)
+22	25	120	walk; A catches wallet thrown by B (2 subjects - subject A)
+23	01	120	B sits; A pulls up B (subjects - subject B)
+23	02	120	A sits; B pulls up A (subjects - subject B)
+23	03	120	A sits, holds face in hands; B kneels, comforts A (2 subjects - subject B)
+23	04	120	B comforts A, puts one hand on A's shoulder (2 subjects - subject B)
+23	05	120	A comforts B, puts both hands on B's shoulders (2 subjects - subject B)
+23	06	120	B comforts A, puts both hands on A's shoulders (2 subjects - subject B)
+23	07	120	A comforts B, puts one hand on B's shoulder (2 subjects - subject B)
+23	08	120	hold hands, swing arms, walk (2 subjects - subject B)
+23	09	120	A gives B a shoulder rub; B sits, A stands (subjects - subject B)
+23	10	120	A shelters B, a younger child, from harm (2 subjects - subject B)
+23	11	120	B shelters A, a younger child, from harm (2 subjects - subject B)
+23	12	120	A stumbles into B (2 subjects - subject B)
+23	13	120	A passes soda to B; both drink (2 subjects - subject B)
+23	14	120	alternating squats (2 subjects - subject B)
+23	15	120	alternating jumping jacks (2 subjects - subject B)
+23	16	120	synchronized jumping jacks (2 subjects - subject B)
+23	17	120	rush up, arm wrestle (2 subjects - subject B)
+23	18	120	A stares down B, leans with hands on high stool (2 subjects - subject B)
+23	19	120	B stares down A, leans with hands on high stool (2 subjects - subject B)
+23	20	120	violence - A picks up high stool, threatens to strike B (2 subjects - subject B)
+23	21	120	conversation - B pounds high stool, points at A (2 subjects - subject B)
+23	22	120	walk; B catches keys thrown by A (2 subjects - subject B)
+23	23	120	walk; A catches keys thrown by B (2 subjects - subject B)
+23	24	120	walk; B catches wallet thrown by A (2 subjects - subject B)
+23	25	120	walk; A catches wallet thrown by B (2 subjects - subject B)
+24	01	120	nursery rhyme - "I'm a little teapot..."
+25	01	120	nursery rhyme - "I'm a little teapot..."
+26	01	120	walk
+26	02	120	basketball signals
+26	03	120	nursery rhyme - "I'm a little teapot..."
+26	04	120	nursery rhyme - "I'm a little teapot..."
+26	05	120	Alaska vacation
+26	06	120	Alaska vacation
+26	07	120	nursery rhyme - Cock Robin
+26	08	120	nursery rhyme - Cock Robin
+26	09	120	bend, pick up
+26	10	120	bend, lift
+26	11	120	bend, lift
+27	01	120	walk
+27	02	120	basketball signals
+27	03	120	nursery rhyme - "I'm a little teapot..."
+27	04	120	Alaskan vacation
+27	05	120	nursery rhyme - Cock Robin
+27	06	120	basketball signals
+27	07	120	nursery rhyme - "I'm a little teapot..."
+27	08	120	Alaskan vacation
+27	09	120	Alaskan vacation
+27	10	120	nursery rhyme - Cock Robin
+27	11	120	prairie dog (human subject)
+28	01	120	basketball signals
+28	02	120	nursery rhyme - "I'm a little teapot..."
+28	03	120	Alaskan vacation
+28	04	120	nursery rhyme - Cock Robin
+28	05	120	basketball signals
+28	06	120	nursery rhyme - "I'm a little teapot..."
+28	07	120	Alaskan vacation
+28	08	120	nursery rhyme - Cock Robin
+28	09	120	prairie dog (human subject)
+28	10	120	whale (human subject)
+28	11	120	bear (human subject)
+28	12	120	dog (human subject)
+28	13	120	snake (human subject)
+28	14	120	chicken (human subject)
+28	15	120	monkey (human subject)
+28	16	120	mouse (human subject)
+28	17	120	cat (human subject)
+28	18	120	elephant (human subject)
+28	19	120	dinosaur (human subject)
+29	01	120	walk
+29	02	120	basketball signals
+29	03	120	nursery rhyme - "I'm a little teapot..."
+29	04	120	Alaskan vacation
+29	05	120	Alaskan vacation
+29	06	120	nursery rhyme - Cock Robin
+29	07	120	basketball signals
+29	08	120	nursery rhyme - "I'm a little teapot..."
+29	09	120	Alaskan vacation
+29	10	120	nursery rhyme - Cock Robin
+29	11	120	Alaskan vacation
+29	12	120	Alaskan vacation
+29	13	120	Alaskan vacation
+29	14	120	prairie dog (human subject)
+29	15	120	whale (human subject)
+29	16	120	bear (human subject)
+29	17	120	dog (human subject)
+29	18	120	cat (human subject)
+29	19	120	fish (human subject)
+29	20	120	elephant (human subject)
+29	21	120	mouse (human subject)
+29	22	120	chicken (human subject)
+29	23	120	dinosaur (human subject)
+29	24	120	snake (human subject)
+29	25	120	monkey (human subject)
+30	01	120	basketball signals
+30	02	120	nursery rhyme - "I'm a little teapot..."
+30	03	120	Alaskan vacation
+30	04	120	Alaskan vacation
+30	05	120	nursery rhyme - Cock Robin
+30	06	120	nursery rhyme - Cock Robin
+30	07	120	basketball signals
+30	08	120	nursery rhyme - "I'm a little teapot..."
+30	09	120	Alaskan vacation
+30	10	120	nursery rhyme - Cock Robin
+30	11	120	Alaskan vacation
+30	12	120	Alaskan vacation
+30	13	120	prairie dog (human subject)
+30	14	120	whale (human subject)
+30	15	120	bear (human subject)
+30	16	120	dog (human subject)
+30	17	120	cat (human subject)
+30	18	120	elephant (human subject)
+30	19	120	mouse (human subject)
+30	20	120	chicken (human subject)
+30	21	120	snake (human subject)
+30	22	120	Tyrannosaurus rex (human subject)
+30	23	120	monkey (human subject)
+31	01	120	basketball signals
+31	02	120	nursery rhyme - "I'm a little teapot..."
+31	03	120	Alaskan vacation
+31	04	120	nursery rhyme - Cock Robin
+31	05	120	basketball signals
+31	06	120	nursery rhyme - "I'm a little teapot..."
+31	07	120	Alaskan vacation
+31	08	120	nursery rhyme - Cock Robin
+31	09	120	Alaskan vacation
+31	10	120	Alaskan vacation
+31	11	120	prairie dog (human subject)
+31	12	120	whale (human subject)
+31	13	120	bear (human subject)
+31	14	120	dog (human subject)
+31	15	120	cat (human subject)
+31	16	120	elephant (human subject)
+31	17	120	Tyrannosaurus rex (human subject)
+31	18	120	mouse (human subject)
+31	19	120	chicken (human subject)
+31	20	120	snake (human subject)
+31	21	120	monkey (human subject)
+32	01	120	walk
+32	02	120	walk
+32	03	120	basketball signals
+32	04	120	nursery rhyme - "I'm a little teapot..."
+32	05	120	Alaskan vacation
+32	06	120	nursery rhyme - Cock Robin
+32	07	120	basketball signals
+32	08	120	nursery rhyme - "I'm a little teapot..."
+32	09	120	Alaskan vacation
+32	10	120	nursery rhyme - Cock Robin
+32	11	120	Alaskan vacation
+32	12	120	Alaskan vacation
+32	13	120	prairie dog (human subject)
+32	14	120	bear (human subject)
+32	15	120	dog (human subject)
+32	16	120	cat (human subject)
+32	17	120	elephant (human subject)
+32	18	120	mouse (human subject)
+32	19	120	chicken (human subject)
+32	20	120	Tyrannosaurus rex (human subject)
+32	21	120	snake (human subject)
+32	22	120	monkey (human subject)
+33	01	60	football - throw, catch (2 subjects - subject A)
+33	02	60	football - throw, catch, jump around (2 subjects - subject A)
+34	01	60	football - throw, catch (2 subjects - subject B)
+34	02	60	football - throw, catch, jump around (2 subjects - subject B)
+35	01	120	walk
+35	02	120	walk
+35	03	120	walk
+35	04	120	walk
+35	05	120	walk
+35	06	120	walk
+35	07	120	walk
+35	08	120	walk
+35	09	120	walk
+35	10	120	walk
+35	11	120	walk
+35	12	120	walk
+35	13	120	walk
+35	14	120	walk
+35	15	120	walk
+35	16	120	walk
+35	17	120	run/jog
+35	18	120	run/jog
+35	19	120	run/jog
+35	20	120	run/jog
+35	21	120	run/jog
+35	22	120	run/jog
+35	23	120	run/jog
+35	24	120	run/jog
+35	25	120	run/jog
+35	26	120	run/jog
+35	27	120	navigate around obstacles
+35	28	120	walk
+35	29	120	walk
+35	30	120	walk
+35	31	120	walk
+35	32	120	walk
+35	33	120	walk
+35	34	120	walk
+36	01	120	walk on uneven terrain
+36	02	120	walk forward, turn around, walk back
+36	03	120	walk forward, turn around, walk back
+36	04	120	walk on uneven terrain
+36	05	120	walk on uneven terrain
+36	06	120	walk on uneven terrain
+36	07	120	walk on uneven terrain
+36	08	120	walk on uneven terrain
+36	09	120	walk forward, turn around, walk back
+36	10	120	walk on uneven terrain
+36	11	120	walk on uneven terrain
+36	12	120	walk on uneven terrain
+36	13	120	walk on uneven terrain
+36	14	120	walk on uneven terrain
+36	15	120	walk on uneven terrain
+36	16	120	walk on uneven terrain
+36	17	120	walk on uneven terrain
+36	18	120	walk on uneven terrain
+36	19	120	walk on uneven terrain
+36	20	120	walk on uneven terrain
+36	21	120	walk on uneven terrain
+36	22	120	walk on uneven terrain
+36	23	120	walk on uneven terrain
+36	24	120	walk on uneven terrain
+36	25	120	walk on uneven terrain
+36	26	120	walk on uneven terrain
+36	27	120	walk on uneven terrain
+36	28	120	walk on uneven terrain
+36	29	120	walk on uneven terrain
+36	30	120	walk on uneven terrain
+36	31	120	walk on uneven terrain
+36	32	120	walk on uneven terrain
+36	33	120	walk on uneven terrain
+36	34	120	walk on uneven terrain
+36	35	120	walk on uneven terrain
+36	36	120	walk on uneven terrain
+36	37	120	jump/hop on uneven terrain
+37	01	120	slow walk
+38	01	120	walk
+38	02	120	walk
+38	03	120	run around in a circle
+38	04	120	walk around, frequent turns, cyclic walk along a line
+39	01	120	walk
+39	02	120	walk
+39	03	120	walk
+39	04	120	walk
+39	05	120	walk
+39	06	120	walk
+39	07	120	walk
+39	08	120	walk
+39	09	120	walk
+39	10	120	walk
+39	11	120	walk forward, turn around, walk back
+39	12	120	walk
+39	13	120	walk
+39	14	120	walk
+40	02	120	navigate - walk forward, backward, on a diagonal
+40	03	120	navigate - walk forward, backward, on a diagonal
+40	04	120	navigate - walk forward, backward, on a diagonal
+40	05	120	navigate - walk forward, backward, on a diagonal
+40	06	120	climb, step over, sit on, jump over stepstool
+40	07	120	climb, step over, jump over stepstool
+40	08	120	climb, step over, jump over stepstool
+40	09	120	climb, step over, jump over stepstool
+40	10	120	wait for bus
+40	11	120	wait for bus
+40	12	120	basketball signals
+41	02	120	navigate - walk forward, backward, sideways, on a diagonal
+41	03	120	navigate - walk forward, backward, sideways, on a diagonal
+41	04	120	navigate - walk forward, backward, on a diagonal
+41	05	120	navigate - walk forward, backward, on a diagonal
+41	06	120	navigate - walk forward, backward, on a diagonal
+41	07	120	climb, step over, jump over, navigate around stepstool
+41	08	120	climb, step over, jump over, navigate around stepstool
+41	09	120	climb, step over, jump over, navigate around stepstool
+41	10	120	basketball signals
+41	11	120	basketball signals
+42	01	60	stretch - rotate head, shoulders, arms, legs
+43	01	120	walk
+43	02	120	playground - grip bar, swing body
+43	03	120	playground - grip bar, swing body
+45	01	120	walk
+46	01	120	walk
+47	01	120	walk forward, turn around, walk back
+49	01	120	walk
+49	02	120	jump up and down, hop on one foot
+49	03	120	jump up and down, hop on one foot
+49	04	120	run, leap
+49	05	120	run, leap
+49	06	120	cartwheel
+49	07	120	cartwheel
+49	08	120	cartwheels
+49	09	120	dance - arms held high, side arabesque
+49	10	120	dance - fold in from side arabesque, curl inwards
+49	11	120	dance - fold in from side arabesque, curl inwards
+49	12	120	dance - lean forward, bring back leg forward, arching arms
+49	13	120	dance - fold in from side arabesque, curl inwards
+49	14	120	dance - lean forward, bring back leg forward, arching arms
+49	15	120	static dance pose - folded in, head lowered, leg bent
+49	16	120	dance - fold in from side arabesque, curl inwards
+49	17	120	dance - lean forward, bring back leg forward, arching arms
+49	18	120	balance on one leg, outstretched arms
+49	19	120	balance on one leg, outstretched arms
+49	20	120	balance on one leg, outstretched arms
+49	21	120	acrobatics - spin/twirl, hang on ropes
+49	22	120	dance - lean back on bent leg, balance, bend elbow by ear
+54	01	120	monkey (human subject)
+54	02	120	bear (human subject)
+54	03	120	penguin (human subject)
+54	04	120	pterosaur (human subject)
+54	05	120	pterosaur (human subject)
+54	06	120	pterosaur (human subject)
+54	07	120	prairie dog (human subject)
+54	08	120	roadrunner (human subject)
+54	09	120	insect/praying mantis (human subject)
+54	10	120	ghost (human subject)
+54	11	120	penguin (human subject)
+54	12	120	dragon (human subject)
+54	13	120	dragon (human subject)
+54	14	120	monkey (human subject)
+54	15	120	prairie dog (human subject)
+54	16	120	superhero
+54	17	120	squirrel (human subject)
+54	18	120	squirrel (human subject)
+54	19	120	squirrel - robotic like motion (human subject)
+54	20	120	follow path, walk around obstacles
+54	21	120	follow path, walk around obstacles
+54	22	120	follow path, walk around obstacles
+54	23	120	monkey (human subject)
+54	24	120	hummingbird (human subject)
+54	25	120	chicken (human subject)
+54	26	120	chicken (human subject)
+54	27	120	chicken (human subject)
+55	01	120	dance, whirl
+55	02	120	lambada dance
+55	03	120	genie (human subject)
+55	04	120	walk
+55	05	120	hummingbird (human subject)
+55	06	120	chicken (human subject)
+55	07	120	chicken (human subject)
+55	08	120	monkey (human subject)
+55	09	120	monkey (human subject)
+55	10	120	hummingbird (human subject)
+55	11	120	animal (human subject)
+55	12	120	dancing bear (human subject)
+55	13	120	insect/praying mantis (human subject)
+55	14	120	prairie dog (human subject)
+55	15	120	roadrunner (human subject)
+55	16	120	panda (human subject)
+55	17	120	ghost (human subject)
+55	18	120	penguin (human subject)
+55	19	120	dragon (human subject)
+55	20	120	hippo ballerina (human subject)
+55	21	120	pterosaur (human subject)
+55	22	120	superhero
+55	23	120	devil
+55	24	120	various animals (human subject)
+55	25	120	dancing animal (human subject)
+55	26	120	monkey (human subject)
+55	27	120	dancing ant (human subject)
+55	28	120	monkey/bear (human subject)
+56	01	120	walk around
+56	02	120	vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall
+56	03	120	vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall, lift open window, throw punches, skip
+56	04	120	vignettes - fists up, wipe window, grab, lift open window, throw punches, yawn, stretch, walk, jump
+56	05	120	vignettes - walk, drink water, run/jog, jump, wipe window, lift open window, throw punches, yawn, stretch
+56	06	120	vignettes - throw punches, grab, skip, yawn, stretch, leap, lift open window, walk, jump/bound
+56	07	120	vignettes - yawn, stretch, walk, run/jog, angrily grab, jump, skip, halt
+56	08	120	vignettes - lift open window, smash against wall, hop, walk, run/jog, yawn, stretch
+60	01	60	salsa dance
+60	02	60	salsa dance
+60	03	60	salsa dance
+60	04	60	salsa dance
+60	05	60	salsa dance
+60	06	60	salsa dance
+60	07	60	salsa dance
+60	08	60	salsa dance
+60	09	60	salsa dance
+60	10	60	salsa dance
+60	11	60	salsa dance
+60	12	60	salsa dance
+60	13	60	salsa dance
+60	14	60	salsa dance
+60	15	60	salsa dance
+61	01	60	salsa dance
+61	02	60	salsa dance
+61	03	60	salsa dance
+61	04	60	salsa dance
+61	05	60	salsa dance
+61	06	60	salsa dance
+61	07	60	salsa dance
+61	08	60	salsa dance
+61	09	60	salsa dance
+61	10	60	salsa dance
+61	11	60	salsa dance
+61	12	60	salsa dance
+61	13	60	salsa dance
+61	14	60	salsa dance
+61	15	60	salsa dance
+62	01	60	bolt loosening, wrench
+62	02	60	bolt tightening, wrench
+62	03	60	sawing, hand saw
+62	04	60	screwing
+62	05	60	screwing
+62	06	60	unscrewing
+62	07	60	hammering a nail
+62	08	60	hammering a nail
+62	09	60	pulling a nail
+62	10	60	hammering sequence
+62	11	60	cleaning up
+62	12	60	hard days drink
+62	13	60	moving a stool
+62	14	60	opening umbrella
+62	15	60	opening umbrella
+62	16	60	closing umbrella
+62	17	60	opening and closing umbrella
+62	18	60	closing a box
+62	19	60	opening a box
+62	20	60	closing, moving and opening a box
+62	21	60	coiling a rope
+62	22	60	dynamic calibration
+62	23	60	bolt tightening
+62	24	60	bolt tightening, with putting bolt in
+62	25	60	bolt loosening, wrench
+63	01	120	Swing
+64	01	120	Swing
+64	02	120	Swing
+64	03	120	Swing
+64	04	120	Swing
+64	05	120	Swing
+64	06	120	Swing
+64	07	120	Swing
+64	08	120	Swing
+64	09	120	Swing
+64	10	120	Swing
+64	11	120	Putt
+64	12	120	Putt
+64	13	120	Putt
+64	14	120	Putt
+64	15	120	Putt
+64	16	120	Placing Tee
+64	17	120	Placing Tee
+64	18	120	Placing Tee
+64	19	120	Placing Tee
+64	20	120	Placing Tee
+64	21	120	Placing Ball
+64	22	120	Placing Ball
+64	23	120	Placing Ball
+64	24	120	Placing Ball
+64	25	120	Placing Ball
+64	26	120	Picking up Ball
+64	27	120	Picking up Ball
+64	28	120	Picking up Ball
+64	29	120	Picking up Ball
+64	30	120	Picking up Ball
+69	01	120	walk forward
+69	02	120	walk forward
+69	03	120	walk forward
+69	04	120	walk forward
+69	05	120	walk forward
+69	06	120	walk and turn (repeated)
+69	07	120	walk and turn (repeated)
+69	08	120	walk and turn (repeated)
+69	09	120	walk and turn (repeated)
+69	10	120	walk and turn (repeated)
+69	11	120	walk and turn (repeated)
+69	12	120	walk and turn both directions (repeated)
+69	13	120	walk, turn in place (repeated)
+69	14	120	walk, turn in place (repeated)
+69	15	120	walk, turn in place (repeated)
+69	16	120	turn in place
+69	17	120	turn in place
+69	18	120	turn in place (opposite direction)
+69	19	120	turn in place (opposite direction)
+69	20	120	walk forward 90 degree right turn
+69	21	120	walk forward 90 degree right turn
+69	22	120	walk forward 90 degree right turn
+69	23	120	walk forward 90 degree right turn
+69	24	120	walk forward 90 degree left turn
+69	25	120	walk forward 90 degree left turn
+69	26	120	walk forward 90 degree left turn
+69	27	120	walk forward 90 degree left turn
+69	28	120	walk forward 90 degree smooth right turn
+69	29	120	walk forward 90 degree smooth right turn
+69	30	120	walk forward 90 degree smooth right turn
+69	31	120	walk forward 90 degree smooth left turn
+69	32	120	walk forward 90 degree smooth left turn
+69	33	120	walk forward 90 degree smooth left turn
+69	34	120	walk backwards and turn
+69	35	120	walk backwards and turn
+69	36	120	walk backwards and turn
+69	37	120	walk backwards and turn
+69	38	120	walk backwards and turn (repeated)
+69	39	120	walk backward, turn in place
+69	40	120	walk backward, turn in place
+69	41	120	walk backward, turn in place
+69	42	120	walk sideways and turn (repeated)
+69	43	120	walk sideways and turn (repeated)
+69	44	120	walk sideways and turn (repeated)
+69	45	120	walk sideways and turn (repeated)
+69	46	120	walk sideways and turn (repeated)
+69	47	120	walk sideways and turn (repeated)
+69	48	120	walk sideways and turn (opposite direction)
+69	49	120	walk sideways and turn (opposite direction)
+69	50	120	walk sideways and backwards
+69	51	120	walk backwards and turn
+69	52	120	walk backwards and turn
+69	53	120	walk backwards and turn
+69	54	120	walk backwards and turn
+69	55	120	walk backwards and turn
+69	56	120	walk sideways and turn (opposite direction)
+69	57	120	walk sideways and turn (opposite direction)
+69	58	120	walk sideways and turn (opposite direction)
+69	59	120	walk sideways and turn
+69	60	120	walk sideways and turn
+69	61	120	walk sideways and turn
+69	62	120	walk sideways and turn (opposite direction)
+69	63	120	walk sideways and turn (opposite direction)
+69	64	120	walk sideways and turn (opposite direction)
+69	65	120	walk sideways and turn
+69	66	120	walk sideways and turn
+69	67	120	walk sideways and turn
+69	68	120	walk forward and pick up object, set down object
+69	69	120	walk forward and pick up object, carry back object
+69	70	120	walk up to object, squat, pick up object, set down in another place.
+69	71	120	walk up to object, squat, pick up object, set down in another place
+69	72	120	walk up to object, pick up object, set down in another place
+69	73	120	walk up to object, lean over, pick up object, set down in another place
+69	74	120	walk up to object, lean over, pick up object, set down in another place
+69	75	120	walk up to object, squat, pick up object, set down in another place
+70	01	120	carry 5.5lb suitcase
+70	02	120	carry 5.5lb suitcase
+70	03	120	carry 19.5lb suitcase
+70	04	120	carry 19.5lb suitcase
+70	05	120	carry 19.5lb suitcase
+70	06	120	carry 19.5lb suitcase
+70	07	120	carry 19.5lb suitcase
+70	08	120	carry 19.5lb suitcase
+70	09	120	carry 19.5lb suitcase
+70	10	120	carry 12.5lb suitcase
+70	11	120	carry 12.5lb suitcase
+70	12	120	carry 12.5lb suitcase
+70	13	120	carry 12.5lb suitcase
+74	01	60	stiff walk
+74	02	60	stiff walk
+74	03	60	kick
+74	04	60	kick
+74	05	60	kick
+74	06	60	kick
+74	07	60	lifting up
+74	08	60	lifting up
+74	09	60	tvd
+74	10	60	peeping
+74	11	60	peeping
+74	12	60	thinker
+74	13	60	Range of motion
+74	14	60	slope 1
+74	15	60	slope1
+74	16	60	slope 2
+74	17	60	slope 2
+74	18	60	slope 3
+74	19	60	slope 3
+74	20	60	stiff walk
+75	01	60	run jump
+75	02	60	run jump
+75	03	60	run jump
+75	04	60	wide leg run
+75	05	60	cross leg run
+75	06	60	180 jump
+75	07	60	angle jumps
+75	08	60	360 jumps
+75	09	60	360 jump
+75	10	60	2 jump
+75	11	60	2 jump
+75	12	60	box jump
+75	13	60	hopscotch
+75	14	60	hopscotch
+75	15	60	long jumps
+75	16	60	jump kick
+75	17	60	medium sit
+75	18	60	high sit
+75	19	60	medium sit
+75	20	60	low sit
+76	01	120	walk backwards then attack with a punch
+76	02	120	walk backwards, feign a few attacks, then attack
+76	03	120	avoid attacker
+76	04	120	defensive guard pose
+76	05	120	swatting at pesky bug
+76	06	120	avoid stepping on something
+76	07	120	tvd
+76	08	120	careful stepping over things
+76	09	120	walking backwards
+76	10	120	turning
+76	11	120	quick large steps backwards
+77	01	60	looking around
+77	02	60	standing
+77	03	60	ready stance
+77	04	60	Looking around
+77	05	60	look around with flashlight
+77	06	60	searching ground
+77	07	60	poking ground
+77	08	60	investigating thing on ground with two hands
+77	09	60	duck to avoid flying object
+77	10	60	careful run
+77	11	60	careful run
+77	12	60	careful run in circle
+77	13	60	careful run in figure eight
+77	14	60	careful creeping
+77	15	60	careful creeping
+77	16	60	laying down, getting up, careful ready pose
+77	17	60	laying down, getting up, careful ready pose
+77	18	60	laying down on back, getting up, careful ready pose
+77	19	60	limping, hurt right leg
+77	20	60	limping, hurt right leg
+77	21	60	stretching
+77	22	60	limping, hurt right leg
+77	23	60	limping, hurt right leg
+77	24	60	limping, hurt right leg
+77	25	60	careful walk and search
+77	26	60	careful walk and search
+77	27	60	careful walk and search
+77	28	60	careful walk
+77	29	60	creeping walk
+77	30	60	creeping walk
+77	31	60	silent walk
+77	32	60	creeping walk
+77	33	60	creeping with limp
+77	34	60	creep and pause, repeat
+78	01	120	LeftTightTurn CleanedGRS
+78	02	120	RightWideTurn CleanedGRS
+78	03	120	LeftWideTurn CleanedGRS
+78	04	120	SuperTightLeft CleanedGRS
+78	05	120	SuperTightRight CleanedGRS
+78	06	120	RunningStraight CleanedGRS
+78	07	120	RunningWideRight CleanedGRS
+78	08	120	RunningWideLeft CleanedGRS
+78	09	120	RunningTigherLeft CleanedGRS
+78	10	120	RunningTighterRight CleanedGRS
+78	11	120	calibration
+78	12	120	RunningNoBall CleanedGRS
+78	13	120	OffensiveMoveSpinLeft CleanedGRS
+78	14	120	OffensiveMoveSpinLeft CleanedGRS
+78	15	120	OffensiveMoveGoRight CleanedGRS
+78	16	120	OffensiveMoveGoLeft CleanedGRs
+78	17	120	OffensiveMoveSpinRight CleanedGRS
+78	18	120	WalkEvasiveLeft CleanedGRS
+78	19	120	WalkEvasiveRight CleanedGRS
+78	20	120	FeintLeftMoveRight CleanedGRS
+78	21	120	FeintRightMoveLeft CleanedGRS
+78	22	120	FakeShotBreakRight CleanedGRs
+78	23	120	FakeShotBreakLeft CleanedGRS
+78	24	120	DefensiveStraightNoStop CleanedGRS
+78	25	120	DefensiveStraightWithStop CleanedGRS
+78	26	120	DefensiveRightStopToStop CleanedGRS
+78	27	120	DefensiveLeftStopToStop CleanedGRS
+78	28	120	DefensiveMoveZigZag CleanedGRS
+78	29	120	DefensiveMoveSideToSide CleanedGRS
+78	30	120	DefensiveMoveSideToSide CleanedGRS
+78	31	120	Pivoting CleanedGRS
+78	32	120	SraightDriveFromStop Cleaned GRS
+78	33	120	RightDrive (left then right) Cleaned GRS
+78	34	120	LeftDrive (right then left) Cleaned GRS
+78	35	120	RightTightTurn CleanedGRS
+79	01	60	chopping wood
+79	02	60	swimming
+79	03	60	swimming
+79	04	60	digging
+79	05	60	sewing
+79	06	60	hand shake
+79	07	60	lost marker
+79	08	60	boxing
+79	09	60	slicing bread
+79	10	60	chopping onions
+79	11	60	Subject calibration
+79	12	60	eating dinner
+79	13	60	mixing batter
+79	14	60	making dough
+79	15	60	eating a sandwich
+79	16	60	buying something
+79	17	60	playing violin
+79	18	60	playing drums
+79	19	60	playing piano
+79	20	60	hanging a picture
+79	21	60	putting on a pull over
+79	22	60	range of motion
+79	23	60	putting on a jacket
+79	24	60	putting on button up sweater
+79	25	60	moving heavy box
+79	26	60	planting a tree
+79	27	60	planting a plant
+79	28	60	putting on a ball cap
+79	29	60	putting on a dress
+79	30	60	pushing a swing
+79	31	60	writing on a chalkboard
+79	32	60	writing on a chalkboard
+79	33	60	chug a beer
+79	34	60	fishing
+79	35	60	fishing
+79	36	60	answering the phone
+79	37	60	dialing phone
+79	38	60	drinking water
+79	39	60	sipping martinee
+79	40	60	drinking a soda
+79	41	60	sipping coffee
+79	42	60	eating soup
+79	43	60	painting
+79	44	60	washing a window
+79	45	60	bear
+79	46	60	bear
+79	47	60	chicken
+79	48	60	elephant
+79	49	60	monkey
+79	50	60	mouse
+79	51	60	chipmunk
+79	52	60	prairie dog
+79	53	60	dog
+79	54	60	snake
+79	55	60	sweeping
+79	56	60	T-rex
+79	57	60	fish
+79	58	60	bird
+79	59	60	cat
+79	60	60	chicken
+79	61	60	cow
+79	62	60	chicken
+79	63	60	tiger
+79	64	60	penguin
+79	65	60	horse
+79	66	60	movie and trial dont match
+79	67	60	no movie
+79	68	60	cold
+79	69	60	very happy
+79	70	60	laughing
+79	71	60	sad
+79	72	60	crying
+79	73	60	scared
+79	74	60	upset
+79	75	60	channel surfing
+79	76	60	driving
+79	77	60	vacuuming
+79	78	60	taking a movie
+79	79	60	putting on headphones
+79	80	60	using a palm pilot
+79	81	60	brushing teeth
+79	82	60	putting on deoderant
+79	83	60	shaving
+79	84	60	combing hair
+79	85	60	typing on a laptop
+79	86	60	shooting bow and arrow
+79	87	60	raking
+79	88	60	swatting at a fly
+79	89	60	holding a baby
+79	90	60	washing
+79	91	60	football
+79	92	60	frisbee
+79	93	60	weight lifting
+79	94	60	flexing
+79	95	60	rowing
+79	96	60	shooting a gun
+80	01	60	shaking hands
+80	02	60	chopping onions
+80	03	60	shooting a gun
+80	04	60	sewing
+80	05	60	digging a hole
+80	06	60	paying for something
+80	07	60	hanging picture
+80	08	60	picking up something
+80	09	60	planting a flower
+80	10	60	boxing
+80	11	60	putting on a sweater
+80	12	60	fishing
+80	13	60	drumming
+80	14	60	teaching
+80	15	60	putting on a coat
+80	16	60	mixing batter
+80	17	60	hand mixing dough
+80	18	60	vacuuming
+80	19	60	pushing broom
+80	20	60	planting
+80	21	60	pushing swing
+80	22	60	putting on a hat
+80	23	60	putting on a skirt
+80	24	60	eating
+80	25	60	answering a phone
+80	26	60	dialing phone
+80	27	60	setting glass of water
+80	28	60	drinking and smoking
+80	29	60	chugging
+80	30	60	range of motion
+80	31	60	making coffee
+80	32	60	slicing
+80	33	60	eating soup
+80	34	60	rake leaves
+80	35	60	putting on headphones
+80	36	60	violin
+80	37	60	TV
+80	38	60	driving
+80	39	60	tvd
+80	40	60	drinking from bottle
+80	41	60	freezing
+80	42	60	freezing
+80	43	60	happy
+80	44	60	laughing
+80	45	60	crying
+80	46	60	crying
+80	47	60	tvd
+80	48	60	arguing
+80	49	60	gorilla
+80	50	60	cleaning window
+80	51	60	chicken
+80	52	60	dog
+80	53	60	elephant
+80	54	60	monkey
+80	55	60	mouse
+80	56	60	chip monk
+80	57	60	prairie dog
+80	58	60	snake
+80	59	60	panther
+80	60	60	tvd
+80	61	60	sweeping
+80	62	60	bird
+80	63	60	chicken
+80	64	60	cat
+80	65	60	fish
+80	66	60	tvd
+80	67	60	tvd
+80	68	60	tvd
+80	69	60	painting
+80	70	60	piano
+80	71	60	chopping wood
+80	72	60	swimming
+80	73	60	shaking hands
+81	01	120	fix hair and walk forward
+81	02	120	walk forward
+81	03	120	walk
+81	04	120	walk at a brisk pace
+81	05	120	push heavy object
+81	06	120	push heavy box
+81	07	120	pull heavy object
+81	08	120	drag heavy object
+81	09	120	drag heavy object
+81	10	120	push object that is high in air
+81	11	120	push object that is high in air
+81	12	120	jump backwards off ledge
+81	13	120	jump backwards off ledge
+81	14	120	climb backwards off ledge
+81	15	120	climb backwards off ledge
+81	16	120	tvd
+81	17	120	walk forward
+81	18	120	adjust hair walk forward
+82	01	120	Static pose
+82	02	120	Jump off ledge
+82	03	120	Jump off ledge
+82	04	120	Jump off ledge
+82	05	120	sitting on ground relaxing
+82	06	120	Pushing on heavy object
+82	07	120	Pushing on heavy object
+82	08	120	stand still; casual walk forward
+82	09	120	confident walk forward
+82	10	120	sad walk forward
+82	11	120	normal walk forward
+82	12	120	happy or fast walk forward
+82	13	120	normal walk forward
+82	14	120	walk forward and slow down
+82	15	120	walk forward and turn sideways
+82	16	120	bang on high object
+82	17	120	bang on high object
+82	18	120	static pose
+83	01	120	large sidestep to right
+83	02	120	sidestep to the right and up a ledge
+83	03	120	large step to a short ledge
+83	04	120	large sidestep to right
+83	05	120	very large sidestep to right
+83	06	120	very large sidestep to right and down
+83	07	120	short sidestep to right and down
+83	08	120	medium step forward and down
+83	09	120	short step forward and down
+83	10	120	medium step forward and down
+83	11	120	static pose
+83	12	120	medium sidestep to right and down
+83	13	120	large sidestep to right
+83	14	120	short sidestep to left and down
+83	15	120	short step forward
+83	16	120	medium sidestep to left and down
+83	17	120	medium step to left and down
+83	18	120	short step to left and forward
+83	19	120	medium sidestep to left
+83	20	120	medium step forward
+83	21	120	large step to left and forward
+83	22	120	stretching
+83	23	120	short sidestep to left and up
+83	24	120	medium step to left and up
+83	25	120	short step forward and up
+83	26	120	medium step to left, forward, and up
+83	27	120	walk forward stepping up stairs
+83	28	120	walk forward stepping up stairs
+83	29	120	walk forward stepping up stairs
+83	30	120	walk forward stepping up stairs
+83	31	120	walk forward stepping up stairs
+83	32	120	walk forward stepping up stairs
+83	33	120	sidestep to right then back to left
+83	34	120	walk forward and up stairs
+83	35	120	walk forward and stepping up stairs
+83	36	120	walk forward turn 90 degrees left walk forward
+83	37	120	walk forward turn 90 degrees right walk forward
+83	38	120	walk forward turn 90 degrees left walk forward
+83	39	120	walk forward turn 90 degrees right walk forward
+83	40	120	hop forward
+83	41	120	hop forward
+83	42	120	long jump forward
+83	43	120	long jump forward
+83	44	120	medium step forward
+83	45	120	hop forward
+83	46	120	medium hop forward
+83	47	120	long jump forward
+83	48	120	short hop forward
+83	49	120	medium hop forward
+83	50	120	long jump forward
+83	51	120	hop turn 90 degrees left in air
+83	52	120	hop turn 90 degrees left in air
+83	53	120	hop turn 90 degrees left in air
+83	54	120	hop turn 180 degrees left in air
+83	55	120	medium sidestep to right
+83	56	120	hop turn left 180 degrees in air
+83	57	120	hop turn left 180 degrees in air
+83	58	120	hop turn left 270 degrees in air
+83	59	120	hop turn left 270 degrees in air
+83	60	120	hop turn left 270 degrees in air
+83	61	120	hop turn 360 degrees left in air
+83	62	120	hop turn left 360 degrees in air
+83	63	120	large sidestep to right and forward
+83	64	120	hop and turn right 360 degrees in air
+83	65	120	hop and turn right 360 degrees in air
+83	66	120	short sidestep to right
+83	67	120	short sidestep to the right
+83	68	120	medium sidestep to right
+85	01	120	JumpTwist
+85	02	120	JumpTwist
+85	03	120	UpRightSequence
+85	04	120	FancyFootWork
+85	05	120	HandStandKicks
+85	06	120	KickFlip
+85	07	120	KickFlipStumble
+85	08	120	Helicopter
+85	09	120	motorcycle pose
+85	10	120	EndofBreakDance
+85	11	120	UpRightSequence
+85	12	120	LongSequenceGood
+85	13	120	BadStartSequnce
+85	14	120	BreakSequencewithFlips
+85	15	120	90TwistsFall
+86	01	120	jumps kicks and punches
+86	02	120	walk, squats, run, stretch, jumps, punches, and drinking
+86	03	120	walking, running, jumping, kicking, and stretching
+86	04	120	walking, stretching, punching, chopping, and drinking
+86	05	120	walking, jumping, jumping jacks, jumping on one foot, punching, chopping,
+86	06	120	walking, running, kicking, punching, knee kicking, and stretching
+86	07	120	walking, swinging arms, stretching, jumping on one leg, and jumping
+86	08	120	walking, squats, stretching, kicking, and punching
+86	09	120	walking, sitting, looking, stand up
+86	10	120	walk around, sit, stand up, and running
+86	11	120	walking, stretching, walking and turning
+86	12	120	walking, dragging, sweeping, dustpan, wipe window, and wipe mirror
+86	13	120	walking around, walk up ladder, step down ladder
+86	14	120	bouncing basketball, shooting basketball, dribble basketball, two handed dribble
+86	15	120	walking, sitting, hand motions
+87	01	60	Jump with kick and spin
+87	02	60	T-Pose
+87	03	60	Backflip
+87	04	60	backflip
+87	05	60	cartwheels
+88	01	60	backflip
+88	02	60	backflips, jump onto platform, handstands, vertical pushups
+88	03	60	motorcycle pose
+88	04	60	stretches, cartwheels, flips, spin kicks, spins, and fall
+88	05	60	cartwheel into backflip
+88	06	60	jump and spin kick
+88	07	60	cartwheel
+88	08	60	crouch and flip backward on hands
+88	09	60	stretch and cartwheel
+88	10	60	stretch and spin
+88	11	60	stretches and jumps
+89	01	60	balance object on forehead
+89	02	60	motorcycle pose
+89	03	60	flip and stand on one hand
+89	04	60	spins, flips, stand on one hand
+89	05	60	spin upside down, handstand, flips
+89	06	60	balance beam
+90	01	120	bkwd summersult
+90	02	120	cartwheel
+90	03	120	cartwheel
+90	04	120	cartwheel
+90	05	120	jump kick
+90	06	120	jump kick
+90	07	120	jump kick
+90	08	120	side flip
+90	09	120	Flip forward onto hands and back again
+90	10	120	tvd
+90	11	120	hand spring
+90	12	120	bck flp twst fall
+90	13	120	bck flp twst fall
+90	14	120	front hand flip
+90	15	120	front hand flip
+90	16	120	fall on face
+90	17	120	BannanaPeelSlip
+90	18	120	RugPullFall
+90	19	120	monkey backflip
+90	20	120	monkey sequence
+90	21	120	monkey sequence
+90	22	120	straight walk
+90	23	120	straight walk
+90	24	120	ball mount
+90	25	120	fwd ball walk
+90	26	120	fwd ball walk
+90	27	120	bwk ball walk
+90	28	120	breakdance
+90	29	120	sequesnce
+90	30	120	russian dance
+90	31	120	russian dance
+90	32	120	moonwalk
+90	33	120	arm up wide leg roll
+90	34	120	wide leg roll
+90	35	120	wide leg roll
+90	36	120	wide leg roll
+91	01	120	Walk digital figure eight
+91	02	120	WalkStraight
+91	03	120	Walk figure eight
+91	04	120	Walking
+91	05	120	Mummy Walk
+91	06	120	Motorcycle Pose
+91	07	120	mummy8
+91	08	120	mummyDigital8
+91	09	120	DrunkWalk
+91	10	120	SlowWalk
+91	11	120	LavishWalk
+91	12	120	TooCoolWalk
+91	13	120	SadWalk
+91	14	120	DepressedWalk
+91	15	120	ClumsyWalk
+91	16	120	Limp
+91	17	120	QuickWalk
+91	18	120	CarefulWalk LookingAround
+91	19	120	March
+91	20	120	ShyWalk
+91	21	120	acheyWalk
+91	22	120	CasualQuickWalk
+91	23	120	CoolWalk
+91	24	120	HurtLegWalk
+91	25	120	DragBadLegWalk
+91	26	120	HurtStomachWalk
+91	27	120	SlowWalk
+91	28	120	GhettoWalk
+91	29	120	NormalWalk
+91	30	120	SexyWalk
+91	31	120	NormalWalk
+91	32	120	ScaredWalk
+91	33	120	MachoWalk
+91	34	120	NormalWalk
+91	35	120	TrafficWalk
+91	36	120	WalkStraight
+91	37	120	Forward
+91	38	120	SmallForward
+91	39	120	JumpForward
+91	40	120	JumpForward
+91	41	120	JumpForward
+91	42	120	JumpForward
+91	43	120	JumpSmallForward
+91	44	120	JumpSmallForward
+91	45	120	JumpForward
+91	46	120	Jump Turn
+91	47	120	Jump Turn
+91	48	120	JumpTurn
+91	49	120	Jump Turn
+91	50	120	JumpTurn
+91	51	120	FurtherJumpTurn
+91	52	120	SmallJumpTurn
+91	53	120	180 degree jump
+91	54	120	180
+91	55	120	180
+91	56	120	90
+91	57	120	WalkForward
+91	58	120	270
+91	59	120	360 smallStumble
+91	60	120	360
+91	61	120	360
+91	62	120	walkFigure8
+93	01	120	Motorcycle Pose
+93	02	120	rangeOfMotion
+93	03	120	charleston_01
+93	04	120	charleston_side_by_side_female
+93	05	120	charleston_side_by_side_male
+93	06	120	lindyHop2
+93	07	120	Casual Walk
+93	08	120	xtra fancY charleston
+94	01	120	c3d
+94	02	120	c3d
+94	03	120	c3d
+94	04	120	c3d
+94	05	120	c3d
+94	06	120	c3d
+94	07	120	c3d
+94	08	120	c3d
+94	09	120	c3d
+94	10	120	c3d
+94	11	120	c3d
+94	12	120	c3d
+94	13	120	c3d
+94	14	120	c3d
+94	15	120	c3d
+94	16	120	c3d
+102	01	120	RightWideTurn
+102	02	120	LeftWideTurn
+102	03	120	SuperTightLeft
+102	04	120	SuperTightRight
+102	05	120	RunningStraight
+102	06	120	RunningWideRight
+102	07	120	RunningWideLeft
+102	08	120	RunningTighterRight
+102	09	120	calibration
+102	10	120	RunningNoBall
+102	11	120	OffensiveMoveSpinLeft
+102	12	120	OffensiveMoveSpinLeft
+102	13	120	OffensiveMoveGoRight
+102	14	120	OffensiveMoveGoLeft
+102	15	120	OffensiveMoveSpinRight
+102	16	120	WalkEvasiveLeft
+102	17	120	WalkEvasiveRight
+102	18	120	FeintLeftMoveRight
+102	19	120	FeintRightMoveLeft
+102	20	120	FakeShotBreakRight
+102	21	120	FakeShotBreakLeft
+102	22	120	DefensiveStraightNoStop
+102	23	120	DefensiveStraightWithStop
+102	24	120	DefensiveRightStopToStop
+102	25	120	DefensiveLeftStopToStop
+102	26	120	DefensiveMoveZigZag
+102	27	120	DefensiveMoveSideToSide
+102	28	120	DefensiveMoveSideToSide
+102	29	120	Pivoting
+102	30	120	SraightDriveFromStop
+102	31	120	RightDrive (left then right)
+102	32	120	LeftDrive (right then left)
+102	33	120	RightTightTurn
+103	01	120	tvd
+103	02	120	rangeOfMotion_01
+103	03	120	charleston_01
+103	04	120	charleston_side_by_side_female
+103	05	120	charleston_side_by_side_male
+103	06	120	lindyHop2
+103	07	120	Casual Walk
+103	08	120	xtra fancY charleston
+104	01	120	JogThrough
+104	02	120	neutral Male walk, exact footfalls
+104	03	120	Frankenstein male walk, exact footfalls
+104	04	120	JogThrough
+104	05	120	tvd
+104	06	120	StartJog
+104	07	120	tvd
+104	08	120	StartJog
+104	09	120	JogStop
+104	10	120	JogStop
+104	11	120	HappyGoLuckWalk
+104	12	120	ExcitedWalk
+104	13	120	StumbleWalk
+104	14	120	HappyStartWalk
+104	15	120	tvd
+104	16	120	SpasticWalk
+104	17	120	SpasticStop
+104	18	120	SpasticStop
+104	19	120	CasualWalk
+104	20	120	tvd
+104	21	120	tvd
+104	22	120	RegularWalk8
+104	23	120	tvd
+104	24	120	tvd
+104	25	120	tvd
+104	26	120	tvd
+104	27	120	RegularWalkRightAngleTurns
+104	28	120	SternWalk
+104	29	120	SternWalk
+104	30	120	SternWalk8
+104	31	120	tvd
+104	32	120	SternWalkRightAngleTurns
+104	33	120	tvd
+104	34	120	tvd
+104	35	120	SlowWalk
+104	36	120	SlowWalk8
+104	37	120	RunThrough
+104	38	120	tvd
+104	39	120	SlowWalkRightAngleTurns
+104	40	120	tvd
+104	41	120	ZombieWalk
+104	42	120	ZombieWalk8
+104	43	120	ZombieWalkRightAngleTurns
+104	44	120	AttitudeWalk
+104	45	120	AttitudeWalk8
+104	46	120	AttitudeWalkRightAngleTurns
+104	47	120	tvd
+104	48	120	RunThrough
+104	49	120	tvd
+104	50	120	tvd
+104	51	120	tvd
+104	52	120	tvd
+104	53	120	StartRun
+104	54	120	StartRun
+104	55	120	StartRun
+104	56	120	RunStop
+104	57	120	RunStop
+105	01	120	WalkDigital8
+105	02	120	WalkStraight
+105	03	120	Walk8
+105	04	120	Digital8
+105	05	120	mummyWalk
+105	06	120	MotorCyclePose
+105	07	120	mummy8
+105	08	120	mummyDigital8
+105	09	120	DrunkWalk
+105	10	120	SlowWalk
+105	11	120	LavishWalk
+105	12	120	TooCoolWalk
+105	13	120	SadWalk
+105	14	120	DepressedWalk
+105	15	120	ClumsyWalk
+105	16	120	Limp
+105	17	120	QuickWalk
+105	18	120	CarefulWalk LookingAround
+105	19	120	March
+105	20	120	ShyWalk
+105	21	120	acheyWalk
+105	22	120	CasualQuickWalk
+105	23	120	CoolWalk
+105	24	120	HurtLegWalk
+105	25	120	DragBadLegWalk
+105	26	120	HurtStomachWalk
+105	27	120	SlowWalk
+105	28	120	GhettoWalk
+105	29	120	NormalWalk
+105	30	120	SexyWalk
+105	31	120	NormalWalk
+105	32	120	ScaredWalk
+105	33	120	MachoWalk
+105	34	120	NormalWalk
+105	35	120	TrafficWalk
+105	36	120	WalkStraight
+105	37	120	Forward
+105	38	120	SmallForward
+105	39	120	JumpForward
+105	40	120	JumpForward
+105	41	120	JumpForward
+105	42	120	JumpForward
+105	43	120	JumpSmallForward
+105	44	120	JumpSmallForward
+105	45	120	JumpForward
+105	46	120	Jump Turn
+105	47	120	Jump Turn
+105	48	120	JumpTurn
+105	49	120	Jump Turn
+105	50	120	JumpTurn
+105	51	120	FurtherJumpTurn
+105	52	120	SmallJumpTurn
+105	53	120	180
+105	54	120	180
+105	55	120	180
+105	56	120	90
+105	57	120	WalkForward
+105	58	120	270
+105	59	120	360 smallStumble
+105	60	120	360
+105	61	120	360
+105	62	120	walkFigure8
+106	01	120	clean
+106	02	120	clean
+106	03	120	clean
+106	04	120	clean
+106	05	120	clean
+106	06	120	clean
+106	07	120	clean
+106	08	120	clean
+106	09	120	clean
+106	10	120	clean
+106	11	120	clean
+106	12	120	clean
+106	13	120	clean
+106	14	120	clean
+106	15	120	tvd
+106	16	120	clean
+106	17	120	clean
+106	18	120	clean
+106	19	120	clean
+106	20	120	clean
+106	21	120	bad AMC
+106	22	120	clean
+106	23	120	clean
+106	24	120	clean
+106	25	120	clean
+106	26	120	clean
+106	27	120	clean
+106	28	120	clean
+106	29	120	clean
+106	30	120	clean
+106	31	120	clean
+106	32	120	clean
+106	33	120	clean
+106	34	120	clean
+107	01	120	tvd
+107	02	120	tvd
+107	03	120	tvd
+107	04	120	tvd
+107	05	120	tvd
+107	06	120	tvd
+107	07	120	tvd
+107	08	120	tvd
+107	09	120	tvd
+107	10	120	tvd
+107	11	120	tvd
+107	12	120	tvd
+107	13	120	tvd
+107	14	120	tvd
+108	01	120	c3d
+108	02	120	c3d
+108	03	120	c3d
+108	04	120	c3d
+108	05	120	c3d
+108	06	120	c3d
+108	07	120	c3d
+108	08	120	c3d
+108	09	120	c3d
+108	10	120	c3d
+108	11	120	c3d
+108	12	120	c3d
+108	13	120	c3d
+108	14	120	c3d
+108	15	120	c3d
+108	16	120	c3d
+108	17	120	c3d
+108	18	120	c3d
+108	19	120	c3d
+108	20	120	c3d
+108	21	120	c3d
+108	22	120	c3d
+108	23	120	c3d
+108	24	120	c3d
+108	25	120	c3d
+108	26	120	c3d
+108	27	120	c3d
+108	28	120	c3d
+111	01	120	Walk backwards
+111	02	120	Bow
+111	03	120	Crawling
+111	04	120	Curtsey
+111	05	120	Dance
+111	06	120	Get up from floor
+111	07	120	Get up from floor
+111	08	120	Get up from floor
+111	09	120	Get up from chair
+111	10	120	get up from chair
+111	11	120	get up from chair
+111	12	120	Lay down
+111	13	120	March
+111	14	120	Mope
+111	15	120	Motorcycle
+111	16	120	Peekaboo
+111	17	120	Pick up
+111	18	120	Pick up
+111	19	120	Punch Kick
+111	20	120	Ring around the rosie
+111	21	120	Roll over
+111	22	120	Range of motion
+111	23	120	Run
+111	24	120	Run
+111	25	120	Shrug
+111	26	120	Walk sideways
+111	27	120	Walking up stairs
+111	28	120	Standing still
+111	29	120	Stepping over
+111	30	120	Stepping over
+111	31	120	Stepping up / stepping down
+111	32	120	Stretch and yawn
+111	33	120	Throwing
+111	34	120	Walk
+111	35	120	Walk
+111	36	120	Walk and carry
+111	37	120	Wave
+111	38	120	Yoga
+111	39	120	Yoga
+111	40	120	Yoga
+111	41	120	Yoga
+113	01	120	Walk backwards
+113	02	120	Bow
+113	03	120	Curtsey
+113	04	120	Dance
+113	05	120	Walk digital 8
+113	06	120	Walk figure 8
+113	07	120	Run
+113	08	120	Lay down and get up
+113	09	120	March
+113	10	120	Walk, mope around
+113	11	120	Motorcycle
+113	12	120	Peekaboo
+113	13	120	Punch and kick
+113	14	120	Ring around the rosie
+113	15	120	Sit in chair and get up
+113	16	120	Shrug
+113	17	120	Walk sideway
+113	18	120	Walk sideways
+113	19	120	Walking up and down stairs
+113	20	120	Walk up and down stairs
+113	21	120	Standing Still
+113	22	120	Step over
+113	23	120	Stretch and yawn
+113	24	120	Throw
+113	25	120	Walk
+113	26	120	Walk and carry
+113	27	120	Wave
+113	28	120	Yoga
+113	29	120	Yoga
+114	01	120	Motorcycle
+114	02	120	Getting up from laying down
+114	03	120	Range of motion
+114	04	120	Getting up from chair
+114	05	120	Sitting in chair
+114	06	120	Getting up from chair
+114	07	120	Walking up and down stairs
+114	08	120	Walking up and down stairs
+114	09	120	Walking up and down stairs
+114	10	120	Stretching
+114	11	120	Laying down and getting up
+114	12	120	Stretching
+114	13	120	Walk
+114	14	120	Walk
+114	15	120	Walk
+114	16	120	Sit down and stretch
+115	01	120	Pick up box, bend from waist
+115	02	120	Pick box up, bend from waist
+115	03	120	Pick box up, bend from waist
+115	04	120	Pick box up, bend from waist
+115	05	120	Pick box up, bend from waist
+115	06	120	Picking box up, bending knees
+115	07	120	Picking box up, bending knees
+115	08	120	Picking box up, bending knees
+115	09	120	Picking box up, bending knees
+115	10	120	Pick box up, bend from waist
+118	01	120	Jump
+118	02	120	Jump
+118	03	120	Jump
+118	04	120	Jump
+118	05	120	Jump
+118	06	120	Jump
+118	07	120	Jump
+118	08	120	Jump
+118	09	120	Jump
+118	10	120	Jump
+118	11	120	Jump
+118	12	120	Jump
+118	13	120	Jump
+118	14	120	Jump
+118	15	120	Jump
+118	16	120	Jump
+118	17	120	Jump
+118	18	120	Jump
+118	19	120	Jump
+118	20	120	Jump
+118	21	120	Jump
+118	22	120	Jump
+118	23	120	Jump
+118	24	120	Jump
+118	25	120	Jump
+118	26	120	Jump
+118	27	120	Jump
+118	28	120	Jump
+118	29	120	Jump
+118	30	120	Jump
+118	31	120	Motorcycle
+118	32	120	Range of motion
+120	01	120	Alien Turn
+120	02	120	Gorilla
+120	03	120	Mickey cast spell
+120	04	120	Mickey Conducting
+120	05	120	Mickey Dance
+120	06	120	Mickey Dance
+120	07	120	Mickey Dance
+120	08	120	Mickey sneaky walk
+120	09	120	Mickey sneaking walk
+120	10	120	Mickey sneaking walk
+120	11	120	Mickey sneaking walk
+120	12	120	Mickey sneaking walk
+120	13	120	Mickey sneaking walk
+120	14	120	Mickey sneaking walk
+120	15	120	Mickey Surprised
+120	16	120	Mickey Surprised
+120	17	120	Mickey Walk
+120	18	120	Mickey Walk
+120	19	120	Walk slow
+120	20	120	Walk
+120	21	120	Robot
+120	22	120	Zombie
+122	01	120	clean
+122	02	120	clean
+122	03	120	clean
+122	04	120	clean
+122	05	120	clean
+122	06	120	clean
+122	07	120	clean
+122	08	120	clean
+122	09	120	clean
+122	10	120	clean
+122	11	120	c3d
+122	12	120	clean
+122	13	120	clean
+122	14	120	clean
+122	15	120	clean
+122	16	120	clean
+122	17	120	clean
+122	18	120	clean
+122	19	120	clean
+122	20	120	clean
+122	21	120	clean
+122	22	120	clean
+122	23	120	clean
+122	24	120	clean
+122	25	120	clean
+122	26	120	clean
+122	27	120	clean
+122	28	120	clean
+122	29	120	clean
+122	30	120	clean
+122	31	120	clean
+122	32	120	clean
+122	33	120	clean
+122	34	120	clean
+122	35	120	clean
+122	36	120	clean
+122	37	120	clean
+122	38	120	clean
+122	39	120	clean
+122	40	120	clean
+122	41	120	clean
+122	42	120	clean
+122	43	120	clean
+122	44	120	clean
+122	45	120	clean
+122	46	120	clean
+122	47	120	clean
+122	48	120	clean
+122	49	120	clean
+122	50	120	clean
+122	51	120	clean
+122	52	120	clean
+122	53	120	clean
+122	54	120	clean
+122	55	120	clean
+122	56	120	clean
+122	57	120	clean
+122	58	120	cleaned
+122	59	120	clean
+122	60	120	clean
+122	61	120	clean
+122	62	120	clean
+122	63	120	clean
+122	64	120	clean
+122	65	120	clean
+122	66	120	clean
+122	67	120	clean
+122	68	120	clean
+123	01	120	15.5 lbs
+123	02	120	15.5 lbs
+123	03	120	19.5lb
+123	04	120	19.5 lbs
+123	05	120	19.5 lbs
+123	06	120	19.5 lbs
+123	07	120	12.5lb
+123	08	120	12.5 lbs
+123	09	120	12.5 lbs
+123	10	120	12.5lb
+123	11	120	15.5 lbs
+123	12	120	15.5 lbs
+123	13	120	15.5 lbs
+124	01	120	Baseball Pitch
+124	02	120	Baseball Pitch
+124	03	120	Basketball Shoot
+124	04	120	Basketball Free Throw
+124	05	120	Basketball Jump Shot
+124	06	120	Basketball Lay Up
+124	07	120	Baseball Swing
+124	08	120	Baseball Bunt
+124	09	120	Frisbee
+124	10	120	Motorcycle
+124	11	120	2 Foot Jump
+124	12	120	Underhand Toss
+124	13	120	Underhand Fast Pitch
+125	01	120	Breast Stroke
+125	02	120	Breast Stroke
+125	03	120	Break Stroke
+125	04	120	Breast Stroke
+125	05	120	Butterfly
+125	06	120	Free Style
+125	07	120	Motorcycle
+126	01	120	Back Stroke
+126	02	120	Back Stroke
+126	03	120	Breast Stroke
+126	04	120	Breast Stroke
+126	05	120	Breast Stroke
+126	06	120	Fly Stroke
+126	07	120	Fly Stroke
+126	08	120	Fly Stroke
+126	09	120	Fly Stroke
+126	10	120	Free Style
+126	11	120	Free Style
+126	12	120	Free Style
+126	13	120	Motorcycle
+126	14	120	Range of Motion
+127	01	120	Motorcycle
+127	02	120	Range of Motion
+127	03	120	Run
+127	04	120	Walk to Run
+127	05	120	Run to Quick Stop
+127	06	120	Run
+127	07	120	Run
+127	08	120	Run
+127	09	120	Run Right
+127	10	120	Run Right
+127	11	120	Run Left
+127	12	120	Run Left
+127	13	120	Run Side Step Left
+127	14	120	Run Side Step Right
+127	15	120	Run Turn Left
+127	16	120	Run Turn Right
+127	17	120	Run Stop Run
+127	18	120	Run Stop Run
+127	19	120	Run Quick Stop Run
+127	20	120	Run Quick Stop Run
+127	21	120	Run Jump Stop Run
+127	22	120	Run Jump Stop Run
+127	23	120	Run Dive Over Roll Run
+127	24	120	Run Dive Over Roll Run
+127	25	120	Run Jump Over
+127	26	120	Run Jump Over
+127	27	120	Run Jump Over
+127	28	120	Run Jump Over
+127	29	120	Run Duck Underneath
+127	30	120	Run Duck Underneath
+127	31	120	Run Duck Underneath
+127	32	120	Run Duck Underneath
+127	33	120	Run Over
+127	34	120	Run Over
+127	35	120	Run Over
+127	36	120	Run Over
+127	37	120	Run Duck Underneath
+127	38	120	Run Duck Underneath
+128	01	120	Motorcycle
+128	02	120	Run Left
+128	03	120	Run Right
+128	04	120	Run Duck Underneath
+128	05	120	Run Stop Run
+128	06	120	Run Stop Run
+128	07	120	Run Stop Run
+128	08	120	Run Stop Run
+128	09	120	Run Roll Underneath
+128	10	120	Run Dive Over Roll Run
+128	11	120	Run Dive Over Roll Run
+131	01	120	Start Walk Stop
+131	02	120	Start Walk Stop
+131	03	120	Start Hop Stop
+131	04	120	Start Hop Stop
+131	05	120	Start Duck Underneath Stop
+131	06	120	Start Duck Underneath Stop
+131	07	120	Jump Stop
+131	08	120	Jump Stop
+131	09	120	Start Walk Left
+131	10	120	Start Walk Left
+131	11	120	Start Walk Left
+131	12	120	Start Walk Right
+131	13	120	Start Walk Right
+131	14	120	Start Walk Right
+132	01	120	Walk With Arms Out, balancing
+132	02	120	Walk With Arms Out, balancing
+132	03	120	Walk With Arms Out, balancing
+132	04	120	Walk With Arms Out, balancing
+132	05	120	Walk With Arms Out, balancing
+132	06	120	Walk With Arms Out, balancing
+132	07	120	Walk With Arms Out, balancing
+132	08	120	Walk With Arms Out, balancing
+132	09	120	Walk With Arms Out, balancing
+132	10	120	Walk With Arms Out, balancing
+132	11	120	Walk With Arms Out, balancing
+132	12	120	Walk With Arms Out, balancing
+132	13	120	Walk Backwards
+132	14	120	Walk Duck Footed
+132	15	120	Walk With Knees Bent
+132	16	120	Walk Crossover
+132	17	120	Walk Fast
+132	18	120	Walk Fast
+132	19	120	Walk Fast
+132	20	120	Walk Fast
+132	21	120	Walk Fast
+132	22	120	Walk Fast
+132	23	120	Hop on left foot
+132	24	120	Hop on left foot
+132	25	120	Hop on left foot
+132	26	120	Hop on left foot
+132	27	120	Hop on left foot
+132	28	120	Hop on left foot
+132	29	120	Bouncy Walk
+132	30	120	Bouncy Walk
+132	31	120	Bouncy Walk
+132	32	120	Bouncy Walk
+132	33	120	Bouncy Walk
+132	34	120	Bouncy Walk
+132	35	120	Walk Leaning To The Right
+132	36	120	Walk Leaning To The Right
+132	37	120	Marching
+132	38	120	Motorcycle
+132	39	120	Pigeon Toed Walking
+132	40	120	Walk With Stiff Arms
+132	41	120	Walk With Stiff Arms
+132	42	120	Walk Swinging Shoulders
+132	43	120	Walk Swinging Shoulders
+132	44	120	Walk Swinging Shoulders
+132	45	120	Walk Slow
+132	46	120	Walk Slow
+132	47	120	Walk Slow
+132	48	120	Walk Slow
+132	49	120	Walk Slow
+132	50	120	Walk Slow
+132	51	120	Tpose
+132	52	120	Range of Motion
+132	53	120	Walk With Legs Apart
+132	54	120	Walk With Wild Arms
+132	55	120	Walk With Wild Legs
+132	56	120	Walk With Wild Legs
+133	01	120	Walk Crawl
+133	02	120	Walk Crawl
+133	03	120	Walk Jump
+133	04	120	Walk Jump
+133	05	120	Walk Jump
+133	06	120	Walk Jump
+133	07	120	Walk Jump
+133	08	120	Stretch Walk
+133	09	120	Stretch Walk
+133	10	120	Stretch Walk
+133	11	120	Walk Stop Walk
+133	12	120	Walk Stop Walk
+133	13	120	Walk Stop Walk
+133	14	120	Walk Left
+133	15	120	Walk Left
+133	16	120	Walk Left
+133	17	120	Walk Right
+133	18	120	Walk Right
+133	19	120	Walk Right
+133	20	120	Walk Right
+133	21	120	Walk
+133	22	120	Walk
+133	23	120	Walk
+133	24	120	Walk ZigZag
+133	25	120	Motorcycle
+133	26	120	Range of Motion
+134	01	120	Duck Under
+134	02	120	Go Forward
+134	03	120	Lean Turn Right
+134	04	120	Motorcycle
+134	05	120	Pump Jump
+134	06	120	Push Turn Left
+134	07	120	Push Turn Left
+134	08	120	Push Turn Right
+134	09	120	Push Turn Right
+134	10	120	Start
+134	11	120	Start
+134	12	120	Stop and Go
+134	13	120	Stop and Go
+134	14	120	Stop ang Go
+134	15	120	Lean Turn Left
+135	01	120	Bassai
+135	02	120	Empi
+135	03	120	Empi
+135	04	120	Front Kick
+135	05	120	Gedanbarai
+135	06	120	Heiansyodan
+135	07	120	Mawashigeri
+135	08	120	Motorcycle
+135	09	120	Oiduki
+135	10	120	Syutouuke
+135	11	120	Yokogeri
+136	01	120	Walk Bent Forward
+136	02	120	Walk Bent Forward
+136	03	120	Walk Backwards Bent Forward
+136	04	120	Walk Backwards Bent Forward
+136	05	120	Walk on Toes Bent Forward
+136	06	120	Walk on Toes Bent Forward
+136	07	120	Walk Backward on Toes Bent Forward
+136	08	120	Walk Backward on Toes Bent Forward
+136	09	120	Walk Crouched
+136	10	120	Walk Crouched
+136	11	120	Walk Backwards Crouched
+136	12	120	Walk Backwards Crouched
+136	13	120	Walk on Toes Crouched
+136	14	120	Walk on Toes Crouched
+136	15	120	Walk Backwards on Toes Crouched
+136	16	120	Walk Backwards on Toes Crouched
+136	17	120	Flamingo, lift legs high
+136	18	120	Flamingo, lift legs high
+136	19	60	Motorcycle
+136	20	120	Normal Walk
+136	21	120	Normal Walk
+136	22	120	Normal Walk
+136	23	120	Normal Walk
+136	24	120	Normal Walk
+136	25	120	Normal Walk Backwards
+136	26	120	Normal Walk Backwards
+136	27	120	Walk on Toes
+136	28	120	Walk on Toes
+136	29	120	Walk Backwards on Toes
+136	30	120	Walk Backwards on Toes
+136	31	120	Quail, quick little steps
+136	32	120	Quail, quick little steps
+136	33	120	Range of Motion
+137	01	120	Cat Coffee Mug
+137	02	120	Cat Pick Up
+137	03	120	Cat Wait
+137	04	120	Cat Walk
+137	05	120	Chicken Coffee Mug
+137	06	120	Chicken Pick Up
+137	07	120	Chicken Wait
+137	08	120	Chicken Walk
+137	09	120	Dinosaur Coffee Mug
+137	10	120	Dinosaur Pick Up
+137	11	120	Dinosaur Wait
+137	12	120	Dinosaur Walk
+137	13	120	Drunk Coffee Mug
+137	14	120	Drunk Pick Up
+137	15	120	Drunk Wait
+137	16	120	Drunk Walk
+137	17	120	Gangly Teen Coffee Mug
+137	18	120	Gangly Teen Pick Up
+137	19	120	Gangly Teen Wait
+137	20	120	Gangly Teen Walk
+137	21	120	Graceful Lady Coffee Mug
+137	22	120	Graceful Lady Pick Up
+137	23	120	Graceful Lady Wait
+137	24	120	Graceful Lady Walk
+137	25	120	Motorcycle
+137	26	120	Normal Coffee Mug
+137	27	120	Normal Pick Up
+137	28	120	Normal Wait
+137	29	120	Normal Walk
+137	30	120	Old Man Coffee Mug
+137	31	120	Old Man Pick Up
+137	32	120	Old Man Wait
+137	33	120	Old Man Walk
+137	34	120	Range of Motion
+137	35	120	Sexy Lady Coffee Mug
+137	36	120	Sexy Lady Pick Up
+137	37	120	Sexy Lady Wait
+137	38	120	Sexy Lady Walk
+137	39	120	Strong Man Coffee Mug
+137	40	120	Strong Man Pick Up
+137	41	120	Strong Man Wait
+137	42	120	Strong Man Walk
+138	01	120	Marching
+138	02	120	Marching
+138	03	120	Marching
+138	04	120	Marching
+138	05	120	Marching
+138	06	120	Marching
+138	07	120	Marching
+138	08	120	Marching
+138	09	120	Marching
+138	10	120	Marching
+138	11	120	Story
+138	12	120	Story
+138	13	120	Story
+138	14	120	Story
+138	15	120	Story
+138	16	120	Story
+138	17	120	Story
+138	18	120	Story
+138	19	120	Story
+138	20	120	Story
+138	21	120	Story
+138	22	120	Story
+138	23	120	Story
+138	24	120	Story
+138	25	120	Story
+138	26	120	Story
+138	27	120	Story
+138	28	120	Story
+138	29	120	Story
+138	30	120	Story
+138	31	120	Story
+138	32	120	Story
+138	33	120	Story
+138	34	120	Story
+138	35	120	Story
+138	36	120	Story
+138	37	120	Story
+138	38	120	Story
+138	39	120	Story
+138	40	120	Story
+138	41	120	Story
+138	42	120	Story
+138	43	120	Story
+138	44	120	Story
+138	45	120	Story
+138	46	120	Story
+138	47	120	Story
+138	48	120	Story
+138	49	120	Story
+138	50	120	Story
+138	51	120	Story
+138	52	120	Story
+138	53	120	Story
+138	54	120	Story
+138	55	120	Story
+139	01	120	Looking Around
+139	02	120	Shifting Weight
+139	03	120	Looking Around
+139	04	120	Looking Around
+139	05	120	Pulling a Gun
+139	06	120	Poking Around On The Ground
+139	07	120	Poking Around On The Ground
+139	08	120	Poking Around On The Ground
+139	09	120	Ducking
+139	10	120	Run
+139	11	120	Run To Sneak
+139	12	120	Run in Circles
+139	13	120	Run in Circles
+139	14	120	Sneak Sideways
+139	15	120	Sneak Sideways
+139	16	120	Get Up From Ground
+139	17	120	Get Up From Ground
+139	18	120	Get Up From Ground Laying on Back
+139	19	120	Walk Wounded Leg
+139	20	120	Walk Wounded Leg
+139	21	120	Range Of Motion
+139	22	120	Walk Wounded Leg
+139	23	120	Walk Wounded Leg
+139	24	120	Walk Wounded Leg
+139	25	120	Giving Directions
+139	26	120	Looking Around
+139	27	120	Looking Around
+139	28	120	Walking
+139	29	120	Sneaking
+139	30	120	Walking
+139	31	120	Sneaking
+139	32	120	Sneaking
+139	33	120	Sneaking
+139	34	120	Sneaking
+140	01	120	Get Up Face Down
+140	02	120	Get Up Face Down
+140	03	120	Get Up Laying on Side
+140	04	120	Get Up Laying on Side
+140	05	120	Motorcycle
+140	06	120	Idle
+140	07	120	Idle
+140	08	120	Get Up From Ground Laying on Back
+140	09	120	Get Up From Ground Laying on Back
+141	01	120	Run
+141	02	120	Run
+141	03	120	Run
+141	04	120	Jump Distances
+141	05	120	Jump Sideways
+141	06	120	Jump Twist
+141	07	120	Walk Up and Over
+141	08	120	Steop On Walk Down
+141	09	120	Step Over
+141	10	120	Toss and Catch
+141	11	120	Throw and Catch
+141	12	120	Dance, Twist
+141	13	120	Stretch and Yawn
+141	14	120	Punch and Kick
+141	15	120	Range of Motion
+141	16	120	Wave Hello
+141	17	120	Sit on Stool
+141	18	120	Peek a Boo
+141	19	120	Walk
+141	20	120	Waiting
+141	21	120	Shrug
+141	22	120	High Five
+141	23	120	Shake Hands
+141	24	120	Around the world High Five Low
+141	25	120	Walk
+141	26	120	Curtsey
+141	27	120	Mope
+141	28	120	Slap Hands, Throw it Back
+141	29	120	Random Walk
+141	30	120	Random Walk
+141	31	120	Walk Backwards
+141	32	120	Walk Sideways, Cross Legs
+141	33	120	Walk Sideways, Foot to Foot
+141	34	120	Run
+142	01	120	Childish
+142	02	120	Clumsy
+142	03	120	Clumsy
+142	04	120	Cool
+142	05	120	Depressed
+142	06	120	Elated
+142	07	120	Elderlyman
+142	08	120	Happy
+142	09	120	Joy
+142	10	120	Lavish
+142	11	120	Marching
+142	12	120	Painfulleftknee
+142	13	120	Relaxed
+142	14	120	Rushed
+142	15	120	Sad
+142	16	120	Scared
+142	17	120	Scared
+142	18	120	Sexy
+142	19	120	Shy
+142	20	120	Singing in the rain jump
+142	21	120	Singing in the rain jump
+142	22	120	Sneaky
+143	01	120	Run
+143	02	120	Run to Stop
+143	03	120	Start to Run
+143	04	120	Run Figure 8
+143	05	120	Jumping Distances
+143	06	120	Jumping Heights
+143	07	120	Jumping Sideways
+143	08	120	Jumping Twists
+143	09	120	Jumping Twists
+143	10	120	Walk And Pick up Tool Box
+143	11	120	Walk And Pick up Box
+143	12	120	Walk And Pick up Toolbox
+143	13	120	Walk and Pick up Laundry Basket
+143	14	120	Walk And Step Over
+143	15	120	Walk And Step Over
+143	16	120	Walk And Step Over
+143	17	120	Walk Up Stairs And Over
+143	18	120	Sit Down And Get Up
+143	19	120	Sit On Stool And Get Up
+143	20	120	Catch And Throw
+143	21	120	Range Of Motion
+143	22	120	Catch And Throw Football
+143	23	120	Punching
+143	24	120	Kicking
+143	25	120	Waving
+143	26	120	Washing Window
+143	27	120	Washing Window
+143	28	120	Sweeping, Push Broom
+143	29	120	Pacing
+143	30	120	Stretch And Yawn
+143	31	120	Hopscotch
+143	32	120	Walk
+143	33	120	Peek A Boo
+143	34	120	Chicken Dance
+143	35	120	Macarena Dance
+143	36	120	Airplane
+143	37	120	Climb Up And Down Ladder
+143	38	120	Walk Digital 8
+143	39	120	Walk Backwards
+143	40	120	Walk Sideways
+143	41	120	Sneak
+143	42	120	Run
+144	01	120	Cartwheels
+144	02	120	Cartwheels001
+144	03	120	Figure8s
+144	04	120	Figure8s001
+144	05	120	Front_Kicking
+144	06	120	Front_Kicking001
+144	07	120	Left_Blocks
+144	08	120	Left_Blocks001
+144	09	120	Left_Front_Kicking
+144	10	120	Left_Front_Kicking001
+144	11	120	Left_Lunges
+144	12	120	Left_Lunges001
+144	13	120	Left_Punch_Sequence001
+144	14	120	Left_Punch_Sequence002
+144	15	120	Left_Spin_reach001
+144	16	120	Left_Spin_reach002
+144	17	120	Lunges
+144	18	120	Lunges001
+144	19	120	motorcycle pose
+144	20	120	Punch_Sequence
+144	21	120	Punch_Sequence001
+144	22	120	Reach_Left001
+144	23	120	Reach_Left002
+144	24	120	Reach_Right
+144	25	120	Reach_Right001
+144	26	120	Right_Blocks
+144	27	120	Right_Blocks001
+144	28	120	Right_Spin_reach
+144	29	120	Right_Spin_reach001
+144	30	120	Sun Salutation
+144	31	120	Sun Salutation001
+144	32	120	Sun Salutation002
+144	33	120	Walking
+144	34	120	Walking001

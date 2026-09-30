@@ -1,0 +1,9 @@
+data/
+cmu/
+cmu_fk/
+real/
+simdata/
+simv2/
+simv3/
+logs/
+__pycache__/
